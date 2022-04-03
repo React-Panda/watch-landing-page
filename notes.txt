@@ -1,0 +1,128 @@
+// Hero
+Fall in love 💘 with our classic watches ⌚ 
+
+There are all kinds of wonderful, stylish watches out here, and
+              you can choose one which fits your own personality. They are a
+              brilliant accessory, like a piece of jewellery
+
+// About
+Classic Watches For Classic People
+
+Your'e going to fall in love with our classic watches
+
+ Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
+              molestiae dicta corrupti dolore iure quidem ab ipsa, dolores
+              inventore quasi. Accusamus, perferendis! Accusantium cupiditate
+              aliquid laboriosam dolorum expedita vitae maiores.
+
+
+Attractive watches for you
+
+ Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam
+              molestiae dicta corrupti dolore iure quidem ab ipsa, dolores
+              inventore quasi. Accusamus, perferendis! Accusantium cupiditate
+              aliquid laboriosam dolorum expedita vitae maiores.
+
+// Popular
+Popular Watches
+
+// watchdata
+ [
+  {
+    id: 1,
+    name: "Rolex",
+    price: "$200",
+    specifications: [
+      {
+        id: 1,
+        specification: "Great Gifts",
+      },
+      {
+        id: 2,
+        specification: "Conversation Starters",
+      },
+      {
+        id: 3,
+        specification: "Much Harder to lose or Break",
+      },
+      {
+        id: 4,
+        specification: "Display Artistry",
+      },
+    ],
+  },
+  {
+    id: 2,
+    name: "Panerai",
+    price: "$100",
+    specifications: [
+      {
+        id: 1,
+        specification: "Great Gifts",
+      },
+      {
+        id: 2,
+        specification: "Conversation Starters",
+      },
+      {
+        id: 3,
+        specification: "Much Harder to lose or Break",
+      },
+      {
+        id: 4,
+        specification: "Display Artistry",
+      },
+    ],
+  },
+  {
+    id: 3,
+    name: "TimeX",
+    price: "$400",
+    specifications: [
+      {
+        id: 1,
+        specification: "Great Gifts",
+      },
+      {
+        id: 2,
+        specification: "Conversation Starters",
+      },
+      {
+        id: 3,
+        specification: "Much Harder to lose or Break",
+      },
+      {
+        id: 4,
+        specification: "Display Artistry",
+      },
+    ],
+  },
+];
+
+// Explore
+Explore Watches
+
+// watchExploredata
+ [
+  {
+    id: 1,
+    name: "Rolex",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Aperiam molestiae dicta corrupti dolore iure quidem ab ipsa,dolores inventore quasi. Accusamus, perferendis! Accusantium cupiditate aliquid laboriosam dolorum expedita vitae maiores",
+    image: WatchOne,
+  },
+  {
+    id: 2,
+    name: "Panerai",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Aperiam molestiae dicta corrupti dolore iure quidem ab ipsa,dolores inventore quasi",
+    image: WatchTwo,
+  },
+  {
+    id: 3,
+    name: "Watch'o",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit.Aperiam molestiae dicta corrupti dolore iure quidem ab ipsa,dolores inventore quasi",
+    image: WatchThree,
+  },
+];
